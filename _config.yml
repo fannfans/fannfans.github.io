@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://fannfans.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+title: Fannfans Tech Blog
+subtitle: 개발하며 겪은 여러가지 이야기
 author: Your Name
 simple_search: http://google.com/search
 description:
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: 
 
 # Facebook Like
 facebook_like: false
