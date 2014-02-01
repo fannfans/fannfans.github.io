@@ -1,20 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://fannfans.github.io/blog/2014/02/02/octopress-seonjeonggi/</loc>
+        <lastmod>2014-02-02T01:22:07+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://fannfans.github.io/archives/</loc>
-        <lastmod>2014-02-02T00:02:33+09:00</lastmod>
+        <lastmod>2014-02-02T01:22:07+09:00</lastmod>
     </url>
     <url>
         <loc>http://fannfans.github.io/blog/archives/</loc>
-        <lastmod>2014-02-02T00:02:33+09:00</lastmod>
+        <lastmod>2014-02-02T01:22:07+09:00</lastmod>
     </url>
     <url>
         <loc>http://fannfans.github.io/blog/</loc>
-        <lastmod>2014-02-02T00:02:33+09:00</lastmod>
+        <lastmod>2014-02-02T01:22:07+09:00</lastmod>
     </url>
     <url>
         <loc>http://fannfans.github.io/</loc>
-        <lastmod>2014-02-02T00:02:33+09:00</lastmod>
+        <lastmod>2014-02-02T01:22:07+09:00</lastmod>
     </url>
     <url>
         <loc>http://fannfans.github.io/robots.txt</loc>
