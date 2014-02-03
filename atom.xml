@@ -4,10 +4,10 @@
   <title><![CDATA[Fannfans Tech Blog]]></title>
   <link href="http://fannfans.github.io/atom.xml" rel="self"/>
   <link href="http://fannfans.github.io/"/>
-  <updated>2014-02-02T15:28:29+09:00</updated>
+  <updated>2014-02-03T16:12:27+09:00</updated>
   <id>http://fannfans.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Fannfans]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -60,10 +60,6 @@
 		<h3>한진수</h3>
 		<p>서버 개발을 주로하지만 클라이언트도 드문드문하고 있습니다.</p>
 		<ul class="author-links">
-			
-			<li>
-			<a href="http://twitter.com/hannjs">@hannjs</a>
-			</li>
 			
 			
 		</ul>
